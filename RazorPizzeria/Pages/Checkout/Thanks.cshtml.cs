@@ -7,6 +7,7 @@ namespace RazorPizzeria.Pages.Checkout
     {
         public void OnGet()
         {
+            Console.WriteLine("");
         }
     }
 }
